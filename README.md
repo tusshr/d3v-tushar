@@ -19,22 +19,21 @@
 - **JavaScript, TypeScript, Java, SQL**  
 
 ### **Frontend Development**  
-- **Frameworks & Libraries**: React, Next.js, Angular, React Native  
-- **UI & Styling**: Tailwind CSS, Bootstrap, ShadCN UI  
+- **Frameworks & Libraries**: React, Next.js, Angular, Vite, React Native  
+- **UI & Styling**: Tailwind CSS, Bootstrap, ShadCN
 - **Data Visualization**: Chart.js, Recharts, Highcharts  
 - **Others**: Progressive Web Apps (PWA)  
 
 ### **Backend Development**  
 - **Frameworks & Runtime**: Node.js, Bun.js, Java (Spring Boot)  
-- **APIs & Architecture**: Express.js, Hono.js, RESTful APIs, GraphQL  
+- **APIs & Architecture**: Express.js, Hono.js, fastify, RESTful APIs, GraphQL  
 - **Real-time & Event-Driven**: Kafka, WebSocket, Server-Sent Events (SSE)  
-- **Task Queues & Background Jobs**: BullMQ  
+- **Task Queues & Background Jobs**: BullMQ, RabbitMQ  
 
 ### **Databases**  
 - **Relational**: PostgreSQL, MySQL, SQLite  
-- **NoSQL**: MongoDB, Redis, Elasticsearch  
-- **ORMs & Query Builders**: Mongoose, Prisma, Drizzle ORM  
-- **Specialized**: `pg_vector` (Vector similarity search in PostgreSQL)  
+- **NoSQL**: MongoDB, Redis, Elasticsearch, OpenSearch  
+- **ORMs & Query Builders**: Mongoose, Prisma, Drizzle, Knex
 
 ### **DevOps & Tools**  
 - **Containerization & Infrastructure**: Docker, Docker Compose  
@@ -43,8 +42,8 @@
 - **Project Management**: Jira  
 
 ### **Cloud & Hosting**  
-- **Cloud Services**: AWS S3, Firebase  
-- **Hosting Platforms**: Vercel, Netlify  
+- **Cloud Services**: AWS, Firebase  
+- **Hosting Platforms (PaaS)**: Vercel, Netlify  
 - **Operating Systems**: Linux (Ubuntu, Debian)  
 
 ### **State Management**  
@@ -65,7 +64,7 @@
 
 ## 📫 Let's Connect!  
 
-- 🌐 **[Portfolio](https://github.com/d3v-tushar)**  
+- 🌐 **[Portfolio](https://github.com/tusshr)**  
 - 🐦 **[Twitter/X](https://x.com/this_tushr)**  
 - 📘 **[Facebook](https://www.facebook.com/this.tushr)**  
 
